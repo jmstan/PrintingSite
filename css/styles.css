@@ -133,20 +133,28 @@ top:0;
  background-repeat: no-repeat;
  background-position: center;
  background-size: cover;
- height: 700px;
-margin-top: 67px;
+position: absolute;
+display: table;
+height: 100%;
+width: 100%;
  }
 }
 
-.landing-page  {
-position: relative;
-display: table;
-width: 100%;
-height: 100%;
--moz-box-sizing: border-box;
-box-sizing: border-box;
-padding-top: 51px;
-padding-bottom: 55px;
+.overlay{
+   position: relative;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.text {
+    text-align: center;
+    color: red;
+    font-size: 165%;
+    font-weight: lighter;
+    line-height: 2;
+    padding: 0 10%;
 }
 
 @media screen and (max-width:767px){
