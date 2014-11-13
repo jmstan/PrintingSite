@@ -138,7 +138,7 @@ z-index:1;
 }
 
 .main-container{
- background: url('{{site.url}}assets/image1.jpg');
+ background: url('../assets/image1.jpg');
  background-repeat: no-repeat;
  background-position: center;
  background-size: cover;
