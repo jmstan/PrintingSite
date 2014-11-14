@@ -153,10 +153,9 @@ width: 100%;
     display: table-cell;
 }*/
 
-text.overlay{
+.text-overlay{
   z-index: 100;
 position: absolute;
-color: white;
 font-size: 24px;
 font-weight: 700;
 top: 40%;
