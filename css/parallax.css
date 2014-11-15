@@ -126,7 +126,7 @@
 
   #group2 {
     z-index: 3; /* slide under groups 1 and 3 */
-     height: 80vh;
+     height: 100vh;
     
   }
   #group2 .parallax__layer--back {
