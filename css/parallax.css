@@ -116,9 +116,10 @@
 
  #group1 {
     z-index: 5; /* slide over group 2 */
+    background: url('{{site.url}}assets/image1.jpg');
   }
   #group1 .parallax__layer--base {
-    background: url('main-image.jpg');
+   
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
