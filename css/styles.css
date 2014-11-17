@@ -168,6 +168,17 @@ h2.text {
   float:left;
 }
 
+.main-box{
+  overflow: hidden;
+
+position: absolute;
+left: 50%;
+top: 50%;
+-webkit-transform: translate(-50%, -50%);
+width: 900px;
+margin: 0 auto;
+}
+
 @media screen and (max-width:767px){
    ul li{
       float:none;
