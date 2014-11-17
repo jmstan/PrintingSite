@@ -153,6 +153,10 @@ width: 100%;
     display: table-cell;
 }
 
+.box1, .box2, .box3{
+  text-align: center;
+}
+
 
 
 h2.text {
