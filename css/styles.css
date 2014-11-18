@@ -183,11 +183,12 @@ width: 900px;
 margin: 0 auto;
 }
 
-.title-box{
+span.title-box{
   text-align: right;
   display: block;
   margin: 0 auto;
     font-family: "merriweather";
+    font-size: 22px;
 }
 
 
