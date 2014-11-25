@@ -207,7 +207,12 @@ border-radius: 4px;
 -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
 box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
 -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s,box-shadow easein-out .15s;
+}
+
+input_type[input_message]{
+  height:100px;
+}
 
 @media screen and (max-width:767px){
    ul li{
