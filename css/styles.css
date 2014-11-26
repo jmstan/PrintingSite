@@ -126,6 +126,10 @@ p{
   font-size: 16px;
 }
 
+
+.message-blurb{
+  margin-top: 20px;
+}
 .main-nav{
   overflow: hidden;
 border: 1px solid black;
