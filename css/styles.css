@@ -217,7 +217,10 @@ input#input_message.form-control{
 .btn{
   width: 100px;
   padding: 10px 20px;
-  
+  border-radius: 0;
+  border: 1px solid #0a0a0c;
+  color: #0a0a0c;
+
 }
 
 @media screen and (max-width:767px){
