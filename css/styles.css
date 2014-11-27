@@ -241,6 +241,11 @@ input#input_message.form-control{
 
 }
 
+#Your-Icon{
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
 .circle{
   width: 100px;
   height: 100px;
