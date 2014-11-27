@@ -240,9 +240,15 @@ input#input_message.form-control{
   background-color: white;
 
 }
-/*#Your_Icon{
-  fill:blue;
-}*/
+
+.circle{
+  width: 100px;
+  height: 100px;
+  background: red;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+}
 
 @media screen and (max-width:767px){
    ul li{
