@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="315.5px"
-	 height="315.5px" viewBox="0 0 315.5 315.5" enable-background="new 0 0 315.5 315.5" xml:space="preserve">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="266.5px"
+	 height="266.5px" viewBox="0 0 266.5 266.5" enable-background="new 0 0 266.5 266.5" xml:space="preserve">
 <g id="Layer_2">
-	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="143.5" cy="170.5" rx="102" ry="103"/>
+	<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="132.812" cy="145.375" r="102.688"/>
 </g>
 <g id="Layer_1">
-	<g id="XMLID_2_">
-		<g>
-			<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M190.461,154.875v62.5h-93.75v-62.5h12.396v-31.25h68.75v31.25
-				H190.461z M184.211,211.125V164.25l-40.625,33.854l0,0l-40.625-33.854v46.875H184.211z M171.607,166.646v-36.771h-56.25v36.562
-				l28.229,23.541l0,0L171.607,166.646z"/>
-		</g>
-	</g>
 </g>
 </svg>
