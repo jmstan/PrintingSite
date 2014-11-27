@@ -111,9 +111,10 @@
   } */
 
   .title{
-    text-align: center;
-    margin-top: 20px;
+     text-align: center;
+     margin-top: 20px;
      font-family: "faricy-new-web";
+     font-size: 36px;
   }
 
   .title2{
