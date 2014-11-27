@@ -258,13 +258,10 @@ input#input_message.form-control{
   margin-top: -4%;
 }
 
-.circle{
-  width: 100px;
-  height: 100px;
-  background: red;
-  -moz-border-radius: 50px;
-  -webkit-border-radius: 50px;
-  border-radius: 50px;
+.email-icon{
+  margin-top: -21%;
+text-align: center;
+}
 }
 
 @media screen and (max-width:767px){
