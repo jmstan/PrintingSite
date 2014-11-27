@@ -248,7 +248,8 @@ input#input_message.form-control{
 }
 
 .location-icon{
-
+   width:150px;
+   height:150px;
 }
 
 
