@@ -272,6 +272,10 @@ text-align: center;
  text-align: center;
 }
 
+.email-icon, .phone-icon{
+  margin-top: 8%;
+}
+
 @media screen and (max-width:767px){
    ul li{
       float:none;
