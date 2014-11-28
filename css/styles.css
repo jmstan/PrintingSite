@@ -264,7 +264,7 @@ p.number-blurb{
 }
 
 p.message{
-  text-align: left;
+  margin-left: 0px;
 }
 
 .email-icon{
