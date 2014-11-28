@@ -249,7 +249,7 @@ input#input_message.form-control{
    width:150px;
    height:150px;
    text-align: center;
-   margin-top: -9%;
+  
 }
 
 .location-blurb{
@@ -257,7 +257,7 @@ input#input_message.form-control{
 }
 
 .email-icon{
-  margin-top: -21%;
+
 text-align: center;
 }
 
