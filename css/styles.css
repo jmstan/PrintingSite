@@ -278,11 +278,6 @@ padding: 5px;
 overflow: hidden;
 }
 
-.number-blurb{
-   padding: 10px;
-margin-top: 30px;
-}
-}
 
 img{
   float:left;
@@ -298,6 +293,13 @@ p.email-blurb{
 padding: 10px;
 margin-top: 25px;
 }
+
+p.number-blurb{
+padding: 10px;
+margin-top: 30px;
+}
+
+
 
 .icons-all{
   margin-top: -5%;
