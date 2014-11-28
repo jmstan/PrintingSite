@@ -246,8 +246,7 @@ input#input_message.form-control{
 }
 
 .location-icon{
-   width:150px;
-   height:150px;
+  
    text-align: center;
   
 }
@@ -270,8 +269,7 @@ text-align: center;
 }
 
 .location-icon, .email-icon, .phone-icon{
-  width:100px;
-  height:100px;
+ 
 }
 
 @media screen and (max-width:767px){
