@@ -263,8 +263,11 @@ p.number-blurb{
   margin-top: 10%;
 }
 
-.email-icon{
+p.message{
+  text-align: left;
+}
 
+.email-icon{
 text-align: center;
 }
 
