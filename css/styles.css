@@ -251,8 +251,16 @@ input#input_message.form-control{
   
 }
 
-.location-blurb{
-  margin-top: -4%;
+p.location-blurb{
+  margin-top: 5%;
+}
+
+p.email-blurb{
+  margin-top: 10%;
+}
+
+p.number-blurb{
+  margin-top: 10%;
 }
 
 .email-icon{
