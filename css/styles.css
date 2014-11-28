@@ -269,7 +269,19 @@ text-align: center;
 }
 
 .location-icon, .email-icon, .phone-icon{
- text-align: center;
+ text-align: left;
+padding: 5px;
+overflow: hidden;
+}
+
+img{
+  float:left;
+}
+
+p{
+  display: inline-block;
+margin-top: 23px;
+margin-left: 20px;
 }
 
 .email-icon, .phone-icon{
