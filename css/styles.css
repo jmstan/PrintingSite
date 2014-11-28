@@ -263,8 +263,8 @@ input#input_message.form-control{
 text-align: center;
 }
 
-input{
-  color:black;
+input, textarea{
+  color:black !important;
 }
 
 @media screen and (max-width:767px){
