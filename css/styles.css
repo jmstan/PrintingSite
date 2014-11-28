@@ -263,7 +263,7 @@ input#input_message.form-control{
 text-align: center;
 }
 
-.form-control a{
+.form-control a, placeholder{
   color:black !important;
 }
 
