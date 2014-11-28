@@ -262,6 +262,9 @@ input#input_message.form-control{
   margin-top: -21%;
 text-align: center;
 }
+
+input{
+  color:black;
 }
 
 @media screen and (max-width:767px){
