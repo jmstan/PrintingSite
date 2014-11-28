@@ -268,8 +268,8 @@ text-align: center;
   margin-top: 1%;
 }
 
-.email-icon{
-  margin-top: 5%;
+.email-icon, .phone-icon{
+  margin-top: 3%;
 }
 
 .location-icon, .email-icon, .phone-icon{
