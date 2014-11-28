@@ -268,6 +268,10 @@ text-align: center;
   margin-top: 1%;
 }
 
+.email-icon{
+  margin-top: 5%;
+}
+
 .location-icon, .email-icon, .phone-icon{
  text-align: left;
 padding: 5px;
@@ -286,7 +290,7 @@ margin-left: 20px;
 
 p.email-blurb{
 padding: 10px;
-margin-top: 30px;
+margin-top: 25px;
 }
 
 .icons-all{
