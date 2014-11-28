@@ -197,9 +197,7 @@ margin: 0 auto;
 }
 
 .title-box{
-  
-
-  margin: 0 auto;
+    margin: 0 auto;
     font-family:"adelle-sans"; 
     font-size: 20px;
 }
@@ -269,6 +267,11 @@ text-align: center;
 
 .message-form{
   margin-top: 1%;
+}
+
+.location-icon, .email-icon, .phone-icon{
+  width:100px;
+  height:100px;
 }
 
 @media screen and (max-width:767px){
