@@ -379,9 +379,9 @@ a{
   margin-top: -13%;
 }
 
-.fullscreen.background.parallax{
+/*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
-}
+}*/
 
 @media screen and (max-width:767px){
    ul li{
