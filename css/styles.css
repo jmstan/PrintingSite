@@ -66,15 +66,13 @@ ul{
 
 
 ul li{
-	
-	float:left;
-	margin: 10px 0px 0px 30px;
-	 list-style: none;
+  
+  float:left;
+  margin: 10px 0px 0px 30px;
+   list-style: none;
 }
 
-nav ul{
-   
-}
+
 
 
 nav ul a{
@@ -101,14 +99,14 @@ nav ul a{
 .logo{
   font-family: "merriweather";
   float: left;
- 
+  color:white;
   margin-left: 35px;
 }
 
 
-h1{
+.main-1{
 text-align: center;
-font-size: 36px;
+font-size: 72px;
 font-family: "faricy-new-web";
 color: black;
 letter-spacing: 1.5px;
@@ -119,9 +117,10 @@ color:white;
 
 h2 {
   font-family: "faricy-new-web";
-  font-size: 44px;
+  font-size: 48px;
   margin-top: 30px;
   text-align: center;
+  color:white;
   }
 
 p{
@@ -190,7 +189,8 @@ h2.text {
 
 position: absolute;
 left: 50%;
-top: 50%;
+/*top: 50%; */
+top:65%;
 -webkit-transform: translate(-50%, -50%);
 width: 900px;
 margin: 0 auto;
@@ -200,6 +200,11 @@ margin: 0 auto;
     margin: 0 auto;
     font-family:"adelle-sans"; 
     font-size: 20px;
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  font-size: 22px;
+
 }
 
 
@@ -300,20 +305,33 @@ margin-top: 23px;
 margin-left: 20px;
 }
 
-/*p.email-blurb{
-padding: 10px;
-margin-top: 25px;
+
+a{
+  line-height: 1.2;
+  display: inline-block;
+  letter-spacing: 1px;
+  font-size: 14px;
 }
 
-p.number-blurb{
-padding: 10px;
-margin-top: 30px;
-}*/
+.icon1{
+  float:none;
+}
 
 
+.title{
+  font-size: 32px;
+}
 
 .icons-all{
   margin-top: -5%;
+}
+
+.service-title{
+  margin-top: -13%;
+}
+
+.fullscreen.background.parallax{
+  background: url('{{site.url}}assets/01.jpg');
 }
 
 @media screen and (max-width:767px){
