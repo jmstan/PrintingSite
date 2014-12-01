@@ -98,7 +98,10 @@ section {
 }
 /*------End Parallax Styles----*/
 
-
+@font-face {
+font-family: DINPro-Medium;
+src: url("css/DINPro-Medium.otf") format("opentype");
+}
 
 .wrapper{
   position: none;
@@ -165,7 +168,8 @@ color:white;
 
 
 h2 {
-  font-family: "faricy-new-web";
+ /* font-family: "faricy-new-web";  */
+ font-family: DINPro-Medium;
   font-size: 48px;
   margin-top: 30px;
   text-align: center;
