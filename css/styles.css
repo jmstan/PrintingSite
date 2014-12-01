@@ -378,7 +378,7 @@ a{
   margin-top: -5%;
 }
 
-.service-title{
+.service-title, .project-title{
   margin-top: -20%;
   font-size: 42px;
   font-family: "faricy-new-web";
