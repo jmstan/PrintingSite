@@ -252,7 +252,9 @@ margin: 0 auto;
     display: block;
     margin-top: 5%;
     margin-bottom: 5%;
-  font-size: 22px;
+    font-size: 24px;
+    font-family: "faricy-new-web";
+    letter-spacing: 1px;
 
 }
 
