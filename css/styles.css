@@ -385,6 +385,10 @@ a{
   letter-spacing: 1px;
 }
 
+.project-title{
+  margin-top: -12%;
+}
+
 .project1{
   background: url('{{site.url}}assets/frames_small.jpg');
 }
