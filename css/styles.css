@@ -327,6 +327,7 @@ p.number-blurb{
 
 p.message{
   margin-left: 0px;
+  line-height: 1.3;
 }
 
 .email-icon{
@@ -413,7 +414,9 @@ button.submit{
   background: white;
   border:1px solid black;
   margin-right: 2px;
-   font-family: "faricy-new-web"; 
+  font-family: "faricy-new-web";
+  font-size: 16px; 
+
 }
 
 
