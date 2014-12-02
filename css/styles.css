@@ -394,6 +394,16 @@ a{
   background: url('{{site.url}}assets/frames_small.jpg');
 }
 
+#gmap_canvas{
+   width:600px;
+   height:400px;
+   float:right;
+   display: block;
+   margin-top: 2%;
+   margin-bottom: 3%;
+   }
+
+
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
 }*/
