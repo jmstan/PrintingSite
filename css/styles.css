@@ -395,12 +395,6 @@ a{
 }
 
 #gmap_canvas{
-   width:600px;
-   height:400px;
-   
-   display: block;
-   margin-top: 2%;
-   margin-bottom: 3%;
    border:1px solid black;
    }
 
