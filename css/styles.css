@@ -99,6 +99,12 @@ section {
 /*------End Parallax Styles----*/
 
 
+@font-face {
+font-family: DinoPro-Medium.otf;
+src: url("{{site.url}}assets/css/DinoPro-Medium.ttf") format("opentype");
+}
+
+
 .wrapper{
   position: none;
 }
