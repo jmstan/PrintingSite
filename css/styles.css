@@ -284,12 +284,12 @@ transition: border-color ease-in-out .15s,box-shadow easein-out .15s;
 }
 
 .form-group{
-  margin-top: 5px;
+  margin-top: 10px;
   text-align: right;
 }
 
 input#input_message.form-control{
-  height:100px;
+  height:125px;
 }
 
 .btn{
@@ -361,6 +361,8 @@ p{
 margin-top: 23px;
 margin-left: 20px;
 font-family: "faricy-new-web";
+letter-spacing: 1px;
+font-size: 18px;
 }
 
 
@@ -377,7 +379,7 @@ a{
 
 
 .title{
-  font-size: 32px;
+  font-size: 42px;
   font-family: "faricy-new-web";
   letter-spacing: 1px;
 }
