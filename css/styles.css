@@ -412,6 +412,8 @@ button.submit{
   padding: 10px 25px;
   background: white;
   border:1px solid black;
+  margin-right: 2px;
+   font-family: "faricy-new-web"; 
 }
 
 
