@@ -78,8 +78,8 @@ html, body {
   display:table-cell;
     position:relative;
   vertical-align:middle;
- /* text-align:center; */
- text-align: left;
+  text-align:center; 
+
 }
 
 /* visual styles */
@@ -99,7 +99,9 @@ section {
 }
 /*------End Parallax Styles----*/
 
-
+.left{
+  text-align: left;
+}
 
 .wrapper{
   position: none;
