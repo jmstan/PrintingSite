@@ -266,8 +266,7 @@ margin: 0 auto;
     display: block;
     margin-top: 5%;
     margin-bottom: 5%;
-    font-size: 24px;
-    font-family: "faricy-new-web";
+    font: 20px/30px 'Fauna One', Georgia, serif;
     letter-spacing: 1px;
 
 }
@@ -406,10 +405,11 @@ a{
 }
 
 .service-title{
-   font: 22px/68px 'Playfair Display', Georgia, serif;
-   color:black;
-   margin-top: -20%;
-   letter-spacing: 1px;
+font: 32px/68px 'Playfair Display', Georgia, serif;
+color: black;
+margin-top: -24%;
+letter-spacing: 1px;
+font-weight: 700;
 }
 
 .project-title{
