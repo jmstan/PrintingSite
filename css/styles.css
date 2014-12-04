@@ -147,7 +147,9 @@ nav ul a{
 
 
 .nav{
-  float:left;
+  float: right;
+margin-right: 50px;
+
 }
 
 .logo{
