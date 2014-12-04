@@ -427,8 +427,11 @@ button.submit{
 
 
 .frame1{
-  background: url('{{site.url}}assets/01_fade.jpg');
-  
+  background: url('{{site.url}}assets/01_fade.jpg');  
+}
+
+.frame2{
+    background: url('{{site.url}}assets/03_01.jpg');
 }
 
 
