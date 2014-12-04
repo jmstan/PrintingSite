@@ -420,6 +420,11 @@ button.submit{
 }
 
 
+.frame1{
+  background: url('{{site.url}}assets/frames_blur.jpg');
+}
+
+
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
 }*/
