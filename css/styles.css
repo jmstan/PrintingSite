@@ -100,11 +100,6 @@ section {
 /*------End Parallax Styles----*/
 
 
-@font-face {
-font-family: DinoPro-Medium.ttf;
-src: url("{{site.url}}assets/css/DinoPro-Medium.ttf") format("opentype");
-}
-
 
 .wrapper{
   position: none;
@@ -132,8 +127,7 @@ ul li{
 
 nav ul a{
 
-   font: 18px/30px 'Fauna One', Georgia, serif;
-   font-size: 18px;
+   font: 14px/30px 'Fauna One', Georgia, serif;
    font-weight: 300;
    letter-spacing: 1px;
    color: white;
@@ -154,7 +148,7 @@ margin-right: 50px;
 }
 
 .logo{
-  font-family: "merriweather";
+ font: 28px/68px 'Playfair Display', Georgia, serif;
   float: left;
   color:white;
   margin-left: 35px;
