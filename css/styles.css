@@ -408,6 +408,8 @@ a{
 .service-title{
    font: 22px/68px 'Playfair Display', Georgia, serif;
    color:black;
+   margin-top: -20%;
+   letter-spacing: 1px;
 }
 
 .project-title{
