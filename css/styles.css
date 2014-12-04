@@ -397,12 +397,17 @@ a{
   margin-top: -5%;
 }
 
-.service-title, .project-title{
+ .project-title{
 
   margin-top: -20%;
   font-size: 42px;
   font-family: "faricy-new-web";  
   letter-spacing: 1px;
+}
+
+.service-title{
+   font: 22px/68px 'Playfair Display', Georgia, serif;
+   color:black;
 }
 
 .project-title{
