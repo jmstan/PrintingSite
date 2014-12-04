@@ -78,7 +78,8 @@ html, body {
   display:table-cell;
     position:relative;
   vertical-align:middle;
-  text-align:center;
+ /* text-align:center; */
+ text-align: left;
 }
 
 /* visual styles */
