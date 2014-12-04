@@ -181,6 +181,12 @@ margin: 0 auto;
 line-height: 1.3;
   }
 
+span.head1{
+  font-weight: 700;
+margin-bottom: 10%;
+display: inline-block;
+}
+
 p{
   font-size: 16px;
   font-family: "faricy-new-web";
