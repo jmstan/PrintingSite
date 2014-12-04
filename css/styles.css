@@ -257,6 +257,7 @@ top:60%;
 -webkit-transform: translate(-50%, -50%);
 width: 900px;
 margin: 0 auto;
+color:black;
 }
 
 .title-box{
@@ -379,6 +380,7 @@ a{
   display: inline-block;
   letter-spacing: 1px;
   font-size: 14px;
+  color:black;
 }
 
 .icon1{
