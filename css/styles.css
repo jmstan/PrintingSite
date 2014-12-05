@@ -323,16 +323,17 @@ input#input_message.form-control{
 
 p.location-blurb{
   margin-top: 6%;
+   font: 16px 'Fauna One', Georgia, serif;
 }
 
 p.email-blurb{
   margin-top: 10%;
-  font: 18px 'Fauna One', Georgia, serif;
+  font: 16px 'Fauna One', Georgia, serif;
 }
 
 p.number-blurb{
   margin-top: 10%;
-  font: 18px 'Fauna One', Georgia, serif;
+  font: 16px 'Fauna One', Georgia, serif;
 }
 
 p.message{
