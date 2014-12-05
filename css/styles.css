@@ -463,6 +463,10 @@ button.submit{
   font: 16px/20px 'Fauna One', Georgia, serif;
 }
 
+.color1{
+  background: url('{{site.url}}assets/profile.jpg');
+}
+
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
 }*/
