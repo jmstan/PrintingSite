@@ -513,6 +513,11 @@ h2.ready{
    font: 22px 'Fauna One', Georgia, serif;
 }
 
+.blue{
+background-color: blue;
+
+}
+
 
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
