@@ -509,9 +509,7 @@ h2.ready{
    font: 22px 'Fauna One', Georgia, serif;
 }
 
-.landscape{
-  background: url('{{site.url}}assets/landscape_fade.jpg');
-}
+
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
 }*/
