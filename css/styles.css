@@ -483,6 +483,15 @@ button.submit{
   height:30% !important;
 }
 
+.upload{
+  margin: 0px;
+}
+
+.upload-icon{
+  width:125px;
+  height:125px;
+}
+
 .ready{
    font: 36px 'Playfair Display', Georgia, serif;
 }
