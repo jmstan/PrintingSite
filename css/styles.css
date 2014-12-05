@@ -480,7 +480,7 @@ button.submit{
 
 
 .height1{
-  height:40% !important;
+  height:50% !important;
 }
 
 /*.upload{
@@ -503,6 +503,7 @@ p.icons4{
 h2.ready{
    font: 36px 'Playfair Display', Georgia, serif;
    margin-bottom: 2%;
+   color:black;
 }
 
 .send{
