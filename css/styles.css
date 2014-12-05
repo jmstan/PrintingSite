@@ -389,8 +389,7 @@ a{
 
 
 .title{
-  font-size: 42px;
-  font-family: "faricy-new-web";
+  font: 36px/68px 'Playfair Display', Georgia, serif;
   letter-spacing: 1px;
 }
 
