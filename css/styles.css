@@ -488,8 +488,9 @@ button.submit{
 }
 
 .upload-icon{
-  width:125px;
+  width:125px !important;
   height:125px;
+  margin:0px;
 }
 
 .ready{
