@@ -490,7 +490,7 @@ button.submit{
 .upload-icon{
   width:125px !important;
   height:125px;
-  margin:0px;
+  margin:0px !important;
 }
 
 .ready{
