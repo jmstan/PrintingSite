@@ -483,6 +483,13 @@ button.submit{
   height:30% !important;
 }
 
+.ready{
+   font: 36px 'Playfair Display', Georgia, serif;
+}
+
+.send a{
+   font: 22px 'Fauna One', Georgia, serif;
+}
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
 }*/
