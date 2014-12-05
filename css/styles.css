@@ -485,7 +485,7 @@ button.submit{
 
 .upload{
   float:left;
-  margin-left: 126px;
+ 
 } 
 
 .upload-icon{
@@ -500,6 +500,7 @@ p.icons4{
    font: 14px/20px 'Fauna One', Georgia, serif;
    margin-left:0px;
    width:196px;
+   display: inherit;
 }
 
 h2.ready{
