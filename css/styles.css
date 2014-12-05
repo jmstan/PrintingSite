@@ -483,9 +483,10 @@ button.submit{
   height:50% !important;
 }
 
-/*.upload{
-  margin: 0px  !important;
-} */
+.upload{
+  float:left;
+  margin-left: 126px;
+} 
 
 .upload-icon{
   width:125px !important;
@@ -496,8 +497,9 @@ button.submit{
 }
 p.icons4{
   color:black;
-   font: 16px/20px 'Fauna One', Georgia, serif;
+   font: 14px/20px 'Fauna One', Georgia, serif;
    margin-left:0px;
+   width:196px;
 }
 
 h2.ready{
