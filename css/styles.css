@@ -493,6 +493,10 @@ button.submit{
   margin:0px !important;
 }
 
+p.icons4{
+  color:black;
+}
+
 .ready{
    font: 36px 'Playfair Display', Georgia, serif;
 }
