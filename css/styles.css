@@ -478,6 +478,11 @@ button.submit{
   background-size: cover;
 }
 
+
+.height1{
+  height:30% !important;
+}
+
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
 }*/
