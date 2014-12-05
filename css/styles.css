@@ -370,9 +370,9 @@ overflow: hidden;
 }
 
 
-img{
+/*img{
   float:left;
-}
+}*/
 
 p{
   display: inline-block;
@@ -491,11 +491,13 @@ button.submit{
   width:125px !important;
   height:125px;
   margin:0px !important;
-}
+  text-align: center;
 
+}
 p.icons4{
   color:black;
    font: 16px/20px 'Fauna One', Georgia, serif;
+   margin-left:0px;
 }
 
 .ready{
