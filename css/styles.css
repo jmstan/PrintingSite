@@ -464,7 +464,7 @@ button.submit{
 }
 
 .color1{
-  background: url('{{site.url}}assets/profile.jpg');
+  background: url('{{site.url}}assets/blocks.jpg');
 }
 
 /*.fullscreen.background.parallax{
