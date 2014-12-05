@@ -410,7 +410,7 @@ a{
 .service-title{
  font: 34px/30px 'Fauna One', Georgia, serif;
 color: black;
-margin-top: -21%;
+margin-top: -16%;
 letter-spacing: 1px;
 font-weight: 400;
 }
@@ -458,6 +458,9 @@ button.submit{
   background-color: gray;
 }
 
+.aboutme-blurb{
+  margin-top: -6%;
+}
 
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
