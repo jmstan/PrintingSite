@@ -467,6 +467,7 @@ button.submit{
   background: url('{{site.url}}assets/blocks.jpg');
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
 
 /*.fullscreen.background.parallax{
