@@ -454,6 +454,10 @@ button.submit{
   margin-top: 10px;
 }
 
+.gray{
+  background-color: gray;
+}
+
 
 /*.fullscreen.background.parallax{
   background: url('{{site.url}}assets/01.jpg');
