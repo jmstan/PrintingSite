@@ -500,8 +500,9 @@ p.icons4{
    margin-left:0px;
 }
 
-.ready{
+h2.ready{
    font: 36px 'Playfair Display', Georgia, serif;
+   margin-bottom: 2%;
 }
 
 .send{
