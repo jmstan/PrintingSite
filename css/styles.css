@@ -180,8 +180,8 @@ line-height: 1.3;
   }
 
 span.head1{
-font: 48px/68px 'Playfair Display', Georgia, serif;
-  font-weight: 700;
+font-family: 'Old Standard TT', serif;
+font-weight: 700;
 margin-bottom: 10%;
 display: inline-block;
 }
